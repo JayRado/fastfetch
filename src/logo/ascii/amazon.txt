@@ -1,19 +1,8 @@
-             `-/oydNNdyo:.`
-      `.:+shmMMMMMMMMMMMMMMmhs+:.`
-    -+hNNMMMMMMMMMMMMMMMMMMMMMMNNho-
-.``      -/+shmNNMMMMMMNNmhs+/-      ``.
-dNmhs+:.       `.:/oo/:.`       .:+shmNd
-dMMMMMMMNdhs+:..        ..:+shdNMMMMMMMd
-dMMMMMMMMMMMMMMNds    odNMMMMMMMMMMMMMMd
-dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
-dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
-dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
-dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
-dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
-dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
-dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
-dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
-dMMMMMMMMMMMMMMMMh    yMMMMMMMMMMMMMMMMd
-.:+ydNMMMMMMMMMMMh    yMMMMMMMMMMMNdy+:.
-     `.:+shNMMMMMh    yMMMMMNhs+:``
-            `-+shy    shs+:`
+  /$$$$$$        /$$             /$$$$$$       /$$      /$$       /$$$$$$$$
+ /$$__  $$      | $$            |_  $$_/      | $$$    /$$$      | $$_____/
+| $$  \__/      | $$              | $$        | $$$$  /$$$$      | $$
+|  $$$$$$       | $$              | $$        | $$ $$/$$ $$      | $$$$$
+ \____  $$      | $$              | $$        | $$  $$$| $$      | $$__/
+ /$$  \ $$      | $$              | $$        | $$\  $ | $$      | $$
+|  $$$$$$/      | $$$$$$$$       /$$$$$$      | $$ \/  | $$      | $$$$$$$$
+ \______/       |________/      |______/      |__/     |__/      |________/
